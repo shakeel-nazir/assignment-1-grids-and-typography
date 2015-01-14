@@ -21,7 +21,6 @@ body {
     background-color: #E7E5D9
 }
 
-
 .head { 
     background: transparent url(/images/masthead-bg.png) repeat left center;
     text-align: center;
@@ -35,9 +34,7 @@ body {
 
 .headtext { 
     display: inline-block;
-
-	background-color: #E7E5D9;
-
+    background-color: #E7E5D9;
 }
 
 .list { 
@@ -49,7 +46,6 @@ body {
     width: 100%;
 	border-image: url("../img/panel-border.png") 1 1 1 1 stretch stretch;
 	border-width: 1px 1px 1px 1px;
-
 }
 
 .white { 
@@ -76,10 +72,7 @@ p {
     margin-right: auto 
 }
 
-
-
 .box {
     background-color: #87714F;
-
 }
 
