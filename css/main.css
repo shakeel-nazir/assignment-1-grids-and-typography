@@ -40,12 +40,13 @@ body {
 .list { 
     padding-left: 3rem;
     padding-top: 1rem;
+    padding-right: 3rem;
 }
 
 .mugshots { 
     width: 100%;
-	border-image: url("../img/panel-border.png") 1 1 1 1 stretch stretch;
-	border-width: 1px 1px 1px 1px;
+	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	border-width: 30px 30px 30px 30px;
 }
 
 .white { 
@@ -54,11 +55,13 @@ body {
 
 .icons1 { 
     width: 20%;
+    padding-top: 1rem;
 }
 
 .icons2 { 
-    padding-top: 4rem;
+    padding-top: 5rem;
     width: 15%;
+    padding-bottom: 1rem;
 }
 
 p {
@@ -74,5 +77,9 @@ p {
 
 .box {
     background-color: #87714F;
+}
+
+dt { 
+    letter-spacing: .1rem;
 }
 
