@@ -106,8 +106,6 @@ li {
 	        border-width: 30px 30px 30px 30px;
             margin-left: 1rem;
 }
-    
-
 }
 
 @media only screen and (min-width: 50em) {
@@ -126,8 +124,6 @@ li {
 	        border-width: 30px 30px 30px 30px;
             margin-left: 2.5rem;
 }
-    
-
 }
 
 @media only screen and (min-width: 60em){
@@ -145,8 +141,6 @@ li {
 	        border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
 	        border-width: 30px 30px 30px 30px;
             margin-left: 3rem;
+}            
 }
 
-            
-}
-}
