@@ -20,8 +20,8 @@ body {
     background-color: #E7E5D9
 }
 
-.head { 
-    background: url(../images/masthead-bg.png) repeat left center;
+.head {
+    background: url("../images/masthead-bg.png") repeat left center;
     text-align: center;
     height: 2.5rem;
     margin: 1rem;
@@ -34,14 +34,8 @@ body {
 }
 
 .headtext { 
-    width:13rem;
-    padding:.5rem;
     display: inline-block;
     background-color: #E7E5D9;
-   background-image: url("../images/star.svg") repeat left center;
-    background: no-repeat;
-    margin-top:-1rem;
-    text-shadow: 2px 2px gray;
 }
 
 .list { 
