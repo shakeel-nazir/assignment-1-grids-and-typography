@@ -108,56 +108,56 @@ li {
 }
     
     .list { 
-        padding-left: 3rem;
-        padding-top: 1rem;
-        padding-right: 3rem;
+            padding-left: 3rem;
+            padding-top: 1rem;
+            padding-right: 3rem;
 }
 }
 
 @media only screen and (min-width: 50em) {
     
     .mugshots1 { 
-        width: 88%;
-	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	    border-width: 30px 30px 30px 30px;
-        margin-right: 2.5rem;
-        margin-left: 0;
+            width: 88%;
+            border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+            border-width: 30px 30px 30px 30px;
+            margin-right: 2.5rem;
+            margin-left: 0;
 }
 
     .mugshots2 { 
-        width: 88%;
-	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	    border-width: 30px 30px 30px 30px;
-        margin-left: 2.5rem;
+            width: 88%;
+	        border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	        border-width: 30px 30px 30px 30px;
+            margin-left: 2.5rem;
 }
     
     .list { 
-        padding-left: 3rem;
-        padding-top: 1rem;
-        padding-right: 3rem;
+            padding-left: 3rem;
+            padding-top: 1rem;
+            padding-right: 3rem;
 }
 }
 
 @media only screen and (min-width: 60em){
     
     .mugshots1 { 
-        width: 88%;
-	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	    border-width: 30px 30px 30px 30px;
-        margin-right: 4rem;
-        margin-left: 0;
+            width: 88%;
+	        border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	        border-width: 30px 30px 30px 30px;
+            margin-right: 4rem;
+            margin-left: 0;
 }
 
     .mugshots2 { 
-        width: 88%;
-	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	    border-width: 30px 30px 30px 30px;
-        margin-left: 3rem;
+            width: 88%;
+	        border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	        border-width: 30px 30px 30px 30px;
+            margin-left: 3rem;
 }
     
     .list { 
-        padding-left: 3rem;
-        padding-top: 1rem;
-        padding-right: 3rem;
+            padding-left: 3rem;
+            padding-top: 1rem;
+            padding-right: 3rem;
 }
 }
