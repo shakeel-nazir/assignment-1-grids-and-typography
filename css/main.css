@@ -37,7 +37,7 @@ body {
 }
 
 .list { 
-    padding-left: 3rem;
+    padding-left: rem;
     padding-top: 1rem;
     padding-right: 3rem;
 }
@@ -107,11 +107,7 @@ li {
             margin-left: 1rem;
 }
     
-    .list { 
-            padding-left: 3rem;
-            padding-top: 1rem;
-            padding-right: 3rem;
-}
+
 }
 
 @media only screen and (min-width: 50em) {
@@ -131,11 +127,7 @@ li {
             margin-left: 2.5rem;
 }
     
-    .list { 
-            padding-left: 3rem;
-            padding-top: 1rem;
-            padding-right: 3rem;
-}
+
 }
 
 @media only screen and (min-width: 60em){
@@ -154,10 +146,7 @@ li {
 	        border-width: 30px 30px 30px 30px;
             margin-left: 3rem;
 }
-    
-    .list { 
-            padding-left: 3rem;
-            padding-top: 1rem;
-            padding-right: 3rem;
+
+            
 }
 }
