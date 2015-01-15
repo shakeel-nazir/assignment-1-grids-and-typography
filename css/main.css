@@ -21,7 +21,7 @@ body {
 }
 
 .head { 
-    background: transparent url(/images/masthead-bg.png) repeat left center;
+    background: transparent url(../images/masthead-bg.png) repeat left center;
     text-align: center;
 }
 
