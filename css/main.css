@@ -12,7 +12,6 @@ html {
 text-size-adjust:100%;
   }
   
-
 *, *:before, *:after {
     box-sizing: inherit;
 }
@@ -56,8 +55,6 @@ body {
 	border-width: 30px 30px 30px 30px;
     margin-left: .5rem;
     margin-top: .5rem;
-    
-   
 }
 
 .white { 
@@ -97,64 +94,52 @@ dt {
 @media only screen and (min-width: 22em) { 
     
     .mugshots1 { 
-    width: 88%;
-	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	border-width: 30px 30px 30px 30px;
-    margin-left: 1rem;
+            width: 88%;
+	        border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	        border-width: 30px 30px 30px 30px;
+            margin-left: 1rem;
 }
 
-.mugshots2 { 
-    width: 88%;
-	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	border-width: 30px 30px 30px 30px;
-    margin-left: 1rem;
-    
-   
+    .mugshots2 { 
+            width: 88%;
+	        border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	        border-width: 30px 30px 30px 30px;
+            margin-left: 1rem;
 }
-
 }
 
 @media only screen and (min-width: 50em) {
     
-.mugshots1 { 
-    width: 88%;
-	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	border-width: 30px 30px 30px 30px;
-    margin-right: 2.5rem;
-    margin-left: 0;
+    .mugshots1 { 
+        width: 88%;
+	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	    border-width: 30px 30px 30px 30px;
+        margin-right: 2.5rem;
+        margin-left: 0;
 }
 
-.mugshots2 { 
-    width: 88%;
-	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	border-width: 30px 30px 30px 30px;
-    margin-left: 2.5rem;
-    
-   
+    .mugshots2 { 
+        width: 88%;
+	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	    border-width: 30px 30px 30px 30px;
+        margin-left: 2.5rem;
 }
-
-
-
 }
 
 @media only screen and (min-width: 60em){
     
-    
     .mugshots1 { 
-    width: 88%;
-	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	border-width: 30px 30px 30px 30px;
-    margin-right: 4rem;
+        width: 88%;
+	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	    border-width: 30px 30px 30px 30px;
+        margin-right: 4rem;
         margin-left: 0;
 }
 
-.mugshots2 { 
-    width: 88%;
-	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
-	border-width: 30px 30px 30px 30px;
-    margin-left: 3rem;
-    
-   
+    .mugshots2 { 
+        width: 88%;
+	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	    border-width: 30px 30px 30px 30px;
+        margin-left: 3rem;
 }
-
 }
