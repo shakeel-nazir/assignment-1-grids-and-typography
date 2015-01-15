@@ -87,7 +87,7 @@ p {
     background-color: #87714F;
 }
 
-dt { 
+li { 
     letter-spacing: .1rem;
 }
 
@@ -105,6 +105,12 @@ dt {
 	        border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
 	        border-width: 30px 30px 30px 30px;
             margin-left: 1rem;
+}
+    
+    .list { 
+        padding-left: 3rem;
+        padding-top: 1rem;
+        padding-right: 3rem;
 }
 }
 
@@ -124,6 +130,12 @@ dt {
 	    border-width: 30px 30px 30px 30px;
         margin-left: 2.5rem;
 }
+    
+    .list { 
+        padding-left: 3rem;
+        padding-top: 1rem;
+        padding-right: 3rem;
+}
 }
 
 @media only screen and (min-width: 60em){
@@ -141,5 +153,11 @@ dt {
 	    border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
 	    border-width: 30px 30px 30px 30px;
         margin-left: 3rem;
+}
+    
+    .list { 
+        padding-left: 3rem;
+        padding-top: 1rem;
+        padding-right: 3rem;
 }
 }
