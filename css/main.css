@@ -43,10 +43,20 @@ body {
     padding-right: 3rem;
 }
 
-.mugshots { 
-    width: 100%;
+.mugshots1 { 
+    width: 88%;
 	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
 	border-width: 30px 30px 30px 30px;
+    margin-right: 3rem;
+}
+
+.mugshots2 { 
+    width: 88%;
+	border-image: url("../images/panel-border.png") 30 30 30 30 stretch stretch;
+	border-width: 30px 30px 30px 30px;
+    margin-left: 3.5rem;
+    margin-right:3rem;
+   
 }
 
 .white { 
